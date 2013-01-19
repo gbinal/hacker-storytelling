@@ -60,8 +60,8 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://kinlane.github.com/hack-weekends
-
+  BASE_PATH : http://kinlane.github.com/hacker-storytelling
+  
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
   #
@@ -86,7 +86,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : hack-weekends
+      short_name : hacker-storytelling
     livefyre :
       site_id : 123
     intensedebate :
