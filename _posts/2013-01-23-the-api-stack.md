@@ -5,7 +5,7 @@ title: The API Stack
 {% include JB/setup %}
 
 <p><a href="http://theapistack.com"><img src="https://s3.amazonaws.com/kinlane-productions/hacker-storytelling/The-API-Stack-Screenshot.png" align="right" width="250" style="padding: 15px;" /></a></p>
-<p>The API Stack is the top APIs and the industries that are putting APIs to use, established by monitoring over 1500 APIs around the globe.  Includes news and analysis and in-depth industry reports.</p>
+<p><a href="http://theapistack.com">The API Stack</a> is the top APIs and the industries that are putting APIs to use, established by monitoring over 1500 APIs around the globe.  Includes news and analysis and in-depth industry reports.</p>
 
 <p>The API Stack consists of:</p>
 <ul>
