@@ -14,7 +14,7 @@ title: The API Stack
 <li>Top 25 API stack</li>
 <li>Top 25 API industry stack</li>
 <li>Top API news</li>
-</li>
+</ul>
 
 <p>The API Stack uses the Hacker Storytelling formula for finding the meaning in a sea of APIs available online today.</p>
 
