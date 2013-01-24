@@ -1,0 +1,46 @@
+---
+layout: page
+title: Stories
+---
+<h1>Stories</h1>
+
+<p>These are the stories I'm currently working on.  Always more to come, so come back.</p>
+
+<table cellpadding="5" cellspacing="5" width="90%" align="center">
+	<tr>
+		<td width="250" align="center">
+			<a href="http://theapistack.com"><img src="https://s3.amazonaws.com/kinlane-productions/hacker-storytelling/The-API-Stack-Screenshot.png" align="right" width="250" style="padding: 15px;" /></a>
+		</td>
+		<td>
+			<p><a href="http://theapistack.com">The API Stack</a><p>
+			<p><a href="http://theapistack.com">The API Stack</a> is the top APIs and the industries that are putting APIs to use, established by monitoring over 1500 APIs around the globe.  Includes news and analysis and in-depth industry reports.</p>
+		</td>
+	</tr>		
+	<tr>
+		<td width="250" align="center">
+			<a href="http://hackweekends.com"><img src="https://s3.amazonaws.com/kinlane-productions/hacker-storytelling/Hack-Weekends-Screenshot.png" align="right" width="250" style="padding: 15px;" /></a>
+		</td>
+		<td>
+			<p><a href="http://hackweekends.com">Hack Weekends</a><p>
+			<p>Hackathons are a growing phenonemom in not just tech circles but growing across many industries.  <a href="http://hackweekends.com">Hack Weekends</a> is meant to be an open source clearing house of information for the hackathon space.</p>
+		</td>
+	</tr>			
+	<tr>
+		<td width="250" align="center">
+			<a href="http://guide.hackweekends.com"><img src="https://s3.amazonaws.com/kinlane-productions/hacker-storytelling/Hack-Weekends-Guide-Screenshot-2.png" align="right" width="250" style="padding: 15px;" /></a>
+		</td>
+		<td>
+			<p><a href="http://guide.hackweekends.com">Hack Weekends Guide</a><p>
+			<p>The <a href="http://guide.hackweekends.com">Hack Weekends Guide</a> is designed to be an open source resource for anyone looking to throw a hackathon.</p>
+		</td>
+	</tr>	
+	<tr>
+		<td width="250" align="center">
+			<a href="http://digitalstrategy.apievangelist.com"><img src="https://s3.amazonaws.com/kinlane-productions/hacker-storytelling/Digital-Strategy-Screenshot.png" align="right" width="250" style="padding: 15px;" /></a>
+		</td>
+		<td>
+			<p><a href="http://digitalstrategy.apievangelist.com">Digital Strategy</a><p>
+			<p>The <a href="http://digitalstrategy.apievangelist.com">Digital Strategy</a> is designed to track the progress and opportunities around the White House Digital Strategy, which is a mandate from President Obama that all federal agencies need to move towards machine readable by default.</p>
+		</td>
+	</tr>
+</table>		
