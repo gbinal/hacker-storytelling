@@ -1,11 +1,0 @@
----
-layout: post
-title: Startups and the Art of Storytelling
-url: http://www.markevanstech.com/2013/05/14/startups-and-the-art-of-storytelling/
-source: http://www.markevanstech.com/2013/05/14/startups-and-the-art-of-storytelling/
-domain: www.markevanstech.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8734_www_markevanstech_com.png
----
-{% include JB/setup %}<p>There are a couple of reasons why this is the case.First, good stories are interesting, attractive and compelling.Second, brands will need to become better storytellers as content marketing becomes table stakes.When everyone’s telling stories, you need to be better at it to rise above the crowd – something we’re seeing in social media.So, how do brands tell good stories?</p>
-<center><p><a href="http://www.markevanstech.com/2013/05/14/startups-and-the-art-of-storytelling/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
