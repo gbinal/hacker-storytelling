@@ -1,0 +1,11 @@
+---
+layout: post
+title: Unique Post Styling with Jekyll
+url: http://web-design-weekly.com/2013/04/07/unique-post-styling-with-jekyll/
+source: http://web-design-weekly.com/2013/04/07/unique-post-styling-with-jekyll/
+domain: web-design-weekly.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10294_web-design-weekly_com.png
+---
+{% include JB/setup %}<p>The other day Dave Rupert blogged about his new JavaScript plugin TimeJump.The Timejump post was a nice little read but the thing that caught my eye was the amount of time he had spent styling the post.I have been following Dave’s development for a while now and have been keeping an especially close eye on his work with Jekyll.So how did Dave actually achieve the custom styled post with Jekyll?After digging around I worked out that he had some sort of ‘Art Direction’ voodoo happening.</p>
+<center><p><a href="http://web-design-weekly.com/2013/04/07/unique-post-styling-with-jekyll/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
