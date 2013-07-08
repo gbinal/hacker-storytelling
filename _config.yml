@@ -5,8 +5,8 @@ lsi: false
 pygments: true
 auto: true
 
-source: api-evangelist
-destination: api-evangelist
+source: hacker-storytelling
+destination: hacker-storytelling
 
 permalink: /:categories/:year/:month/:day/:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -14,9 +14,9 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 paginate: 10
 paginate_path: "/blog/page:num"
 
-production_url : http://design.apievangelist.com
+production_url : http://hackerstorytelling.com
 
-BASE_PATH : http://design.apievangelist.com
+BASE_PATH : http://hackerstorytelling.com
 
 archive_path: /archive.html
 categories_path : /categories.html
